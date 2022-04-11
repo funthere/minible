@@ -1,0 +1,7 @@
+django-crispy-forms
+django-allauth
+psycopg2-binary
+hashids
+django-environ
+django-widget-tweaks
+casbin_sqlalchemy_adapter
